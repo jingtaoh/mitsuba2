@@ -17,6 +17,8 @@ Makefile
 # Miscellaneous;
 /ext_build
 /build*
+/cmake-build-*
+/.idea
 /dist
 *.dir
 *~
